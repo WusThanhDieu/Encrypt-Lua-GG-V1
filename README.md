@@ -1,4 +1,4 @@
 # Encrypt-Lua-GG-V1
-Simple encryption on lua gameguardian, help avoid source code editing, copy-paste, this is my verison I.
-Here is my telegram:
-https://t.me/WusThanhDieu
+<h3 align = "center">Simple encryption on lua gameguardian, help avoid source code editing, copy-paste, this is my verison I.</h3>
+<h3 align = "center">Here is my telegram:</h3>
+https://t.me/WusThanhDieu</h3>
